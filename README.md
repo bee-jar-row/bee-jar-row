@@ -5,12 +5,7 @@
 📊 GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bee-jar-row&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bee-jar-row&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bee-jar-row&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 🟡 Pac-Man Contribution Graph
