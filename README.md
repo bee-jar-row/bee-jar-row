@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=JARBINK;JARBINK;JARBINK" alt="JARBINK" />
+</p>
+
 📊 GitHub Stats 📊
 
 <p align="center">
@@ -17,10 +21,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bee-jar-row/bee-jar-row/output/pacman-contribution-graph.svg">
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/bee-jar-row/bee-jar-row/output/pacman-contribution-graph.svg" width="100%">
   </picture>
-</p>
-
-<p align="center">
-  <i>Every commit is another step forward. Keep building! 🎮</i>
 </p>
 
 <p align="center">
