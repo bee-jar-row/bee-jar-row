@@ -1,28 +1,38 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=JARBINK;JARBINK;JARBINK" alt="JARBINK" />
-</p>
-
-📊 GitHub Stats 📊
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Jarbinkz&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bee-jar-row&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
+  <a href="https://komarev.com/ghpvc/?username=bee-jar-row">
+    <img src="https://komarev.com/ghpvc/?username=bee-jar-row&label=Profile%20views&color=00FFFF&style=flat-square" alt="bee-jar-row's profile views" />
+  </a>
 </p>
 
-🟡 Pac-Man Contribution Graph
-
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bee-jar-row/bee-jar-row/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bee-jar-row/bee-jar-row/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/bee-jar-row/bee-jar-row/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
+  <a href="https://github.com/bee-jar-row">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bee-jar-row&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="bee-jar-row's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=bee-jar-row&theme=radical&hide_border=true&cache_seconds=86400" alt="bee-jar-row's GitHub Streak" width="49%" />
 </p>
-
 <p align="center">
-  <i>anyonk shibal.</i>
+  <img src="https://trophy.ryglcloud.net/?username=bee-jar-row&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Jarbinkz's GitHub Trophies" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/bee-jar-row">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bee-jar-row&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
-<!---
-bee-jar-row/bee-jar-row is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
