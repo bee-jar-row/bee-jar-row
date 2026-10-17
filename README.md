@@ -23,14 +23,6 @@
   <i>Every commit is another step forward. Keep building! 🎮</i>
 </p>
 
-🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/bee-jar-row">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-</p>
-
 <p align="center">
   <i>anyonk shibal.</i>
 </p>
