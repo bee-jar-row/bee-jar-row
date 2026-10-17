@@ -1,45 +1,4 @@
-🛠️ Tech Stack
-
-Languages
-
-
-
-
-
-
-Tools & Technologies
-
-
-
-
-
-
-
-Other areas I'm exploring
-
-Backend APIs and database integration
-
-Object-oriented programming
-
-Game development with LibGDX
-
-Digital design and VHDL
-
-Computer networks and embedded systems
-
-🚀 Featured Projects
-
-📦 Gear Vault
-
-A JavaScript project in my repository collection.
-
-☕ FinProOOP2025
-
-A Java project associated with object-oriented programming.
-
-Check out my repositories for more projects, experiments, and coursework.
-
-📊 GitHub Stats
+📊 GitHub Stats 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bee-jar-row&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
